@@ -1,8 +1,12 @@
 # threejs3d_housevue
 
-## Project setup
+## Project setup下载项目，直接安装依赖
 ```
 npm install
+```
+## 安装threejs库
+```
+npm install three
 ```
 
 ### Compiles and hot-reloads for development
