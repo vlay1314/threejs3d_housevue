@@ -9,6 +9,7 @@
 // @ is an alias to /src
 import HelloWorld from '@/components/HelloWorld.vue'
 
+// eslint-disable-next-line vue/no-export-in-script-setup
 export default {
   name: 'HomeView',
   components: {
