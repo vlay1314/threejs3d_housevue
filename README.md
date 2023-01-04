@@ -1,4 +1,4 @@
-# threejs3d_housevue
+# threejs3d_housevue 3D看房项目demo，仅供学习参考,后续继续优化完善更多功能
 
 ## Project setup下载项目，直接安装依赖
 ```
